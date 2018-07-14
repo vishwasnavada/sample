@@ -1,0 +1,96 @@
+PLOT REPORT
+-----------
+
+Report File:        C:\Users\Vishwas\Documents\Demo (PCB - PLOT REPORT).txt
+Report Written:     Friday, January 27, 2017
+Project Path:       C:\Users\Vishwas\Documents\Demo.prj
+Design Path:        C:\Users\Vishwas\Documents\Demo.pcb
+Design Title:       
+Created:            27-01-2017 13:14:12
+Last Saved:         27-01-2017 14:43:20
+Editing Time:       89 min
+Units:              cm (precision 2)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+PDF Settings
+============
+
+Combine Plots Yes
+Use Bookmarks Yes
+Component Details Yes
+Symbol Details Yes
+Link Net Names Yes
+View PDF Yes
+All Colors Black No
+
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\Vishwas\Documents\Demo.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\Vishwas\Documents\Demo - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 60.00
+    D11    Round 98.43
+    D12    Rectangle 60.00 X 80.00
+    D13    Rectangle 60.00 X 80.00  Rotation 90
+    D14    Square 60.00
+    D15    Round 68.00
+    D16    Round 31.50
+    D17    Round 50.00
+
+Gerber Output
+=============
+
+C:\Users\Vishwas\Documents\Demo - Bottom Copper (Resist).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D18    Round 70.00
+    D19    Round 108.43
+    D70    Rectangle 70.00 X 90.00
+    D71    Rectangle 70.00 X 90.00  Rotation 90
+    D20    Square 70.00
+    D21    Round 78.00
+
+PDF Output
+==========
+
+    Layer
+    --------------
+    Bottom Copper
+
+
+End Of Report.

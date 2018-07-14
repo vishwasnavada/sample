@@ -1,0 +1,69 @@
+Design Rule Check Report
+------------------------
+
+Report File:        C:\Users\Vishwas\Documents\Demo (PCB - Design Rule Check Report).txt
+Report Written:     Friday, January 27, 2017
+Project Path:       C:\Users\Vishwas\Documents\Demo.prj
+Design Path:        C:\Users\Vishwas\Documents\Demo.pcb
+Design Title:       
+Created:            27-01-2017 13:14:12
+Last Saved:         27-01-2017 15:03:32
+Editing Time:       112 min
+Units:              cm (precision 2)
+
+
+Results
+=======
+
+Track to Pad error (T-P) at (50.29 49.30) on layer "Bottom Copper".
+    Error between Component Pad LED1.1 (Net 'N0007') and Track (Net 'N0020'), Gap is 0.00 needs to be 0.03.
+Track to Track error (T-T) at (50.29 49.40) on layer "Bottom Copper".
+    Error between Track (Net 'N0007') and Track (Net 'N0020'), Gap is 0.00 needs to be 0.03.
+
+Number of errors found : 2
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.
